@@ -160,13 +160,10 @@ input[type='checkbox']:checked + span {
 .search-form__checkbox:active + .search-form__pseudo-checkbox::before {
   content: '';
   display: block;
-  width: 15px;
-  height: 15px;
+  width: 80%;
+  height: 80%;
   background-color: rgb(255, 255, 255);
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+  margin: 10%;
 }
 
 /*----------section content__details--------------*/
