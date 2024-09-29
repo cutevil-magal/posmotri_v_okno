@@ -195,7 +195,7 @@ input[type='checkbox']:checked + span {
 
 .content__list {
   position: relative;
-  height: 298px;
+  height: 302px;
   display: flex;
   flex-direction: column;
   overflow: auto;
