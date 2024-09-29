@@ -106,7 +106,7 @@ fieldset {
 
 .search-form__label:has(:focus-visible) {
   /*для input text + checkbox*/
-  border: 1px #fff solid;
+  outline: 1px #fff solid;
 }
 
 .search-form__label:focus {
@@ -128,7 +128,7 @@ fieldset {
 }
 
 .search-form__textfield:active {
-  border: 1px #fff solid;
+  outline: 1px #fff solid;
 }
 
 .search-form__textfield:focus {
@@ -222,7 +222,7 @@ input[type='checkbox']:checked + span {
 }
 
 .content__card-link-item:has(:focus-visible) {
-  border: 1px #fff solid;
+  outline: 1px #fff solid;
 }
 
 .content__card-link:focus {
@@ -282,7 +282,7 @@ input[type='checkbox']:checked + span {
 }
 
 .button:has(:focus-visible) {
-  border: 1px #fff solid;
+  outline: 1px #fff solid;
 }
 
 .button:focus {
