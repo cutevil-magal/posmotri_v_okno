@@ -228,12 +228,12 @@ input[type='checkbox']:checked + span {
   outline: 1px #fff solid;
 } */
 
-.content__card-link:focus-visible {
-  outline: 1px solid #fff;
-}
-
 .content__card-link:focus {
   outline: none;
+}
+
+.content__card-link:focus-visible {
+  outline: 1px solid #fff;
 }
 
 .content__video-card {
@@ -292,12 +292,12 @@ input[type='checkbox']:checked + span {
   outline: 1px #fff solid;
 } */
 
-.button:focus-visible {
-  outline: 1px solid #fff;
-}
-
 .button:focus {
   outline: none;
+}
+
+.button:focus-visible {
+  outline: 1px solid #fff;
 }
 
 .search-form__submit-button {
