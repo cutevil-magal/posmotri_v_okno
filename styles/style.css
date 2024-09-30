@@ -60,7 +60,7 @@ ol {
 
 /*----------section result--------------*/
 .result {
-  margin: 78px 30px 0px 5px;
+  margin: 78px 30px 0px 5px; /*Добавила тут еще отступ слева в 5px, возможно вы цетруете макет иначе и тут был сдвиг*/
 }
 
 .result__video-container {
